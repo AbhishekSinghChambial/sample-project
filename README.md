@@ -1,2 +1,2 @@
 Test Jenkins pipeline
-Test Jenkins pipeline
+Test2 Jenkins pipeline
